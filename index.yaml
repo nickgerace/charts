@@ -12,9 +12,9 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-04-29T04:00:32.451508733Z"
+    created: "2021-04-29T19:44:49.134872304Z"
     description: Fleet Manager - GitOps at Scale
-    digest: 30413b3d39aa2e6349249332bedf3b0aaaee8223b585e2f6df9637efe08f59f3
+    digest: 13c677f44847a72aa07d96cbb242f5e5292d3876dd259c8ecb7ac706e9e3596e
     icon: https://charts.rancher.io/assets/logos/fleet.svg
     name: fleet
     urls:
@@ -31,7 +31,7 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-04-29T04:00:32.450503332Z"
+    created: "2021-04-29T19:44:49.134377567Z"
     description: Fleet Manager - GitOps at Scale
     digest: 3dc07290740992da2a36c0d0cf2ef3592bcb1e2c5482a37a49336794795944f0
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -50,7 +50,7 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-04-29T04:00:32.449681031Z"
+    created: "2021-04-29T19:44:49.133847627Z"
     description: Fleet Manager - GitOps at Scale
     digest: f33de3f1deb1cdfe0ff8af7cde8919bbe3e594b30e423735caddfcf3117d3224
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -69,7 +69,7 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.2
-    created: "2021-04-29T04:00:32.448861231Z"
+    created: "2021-04-29T19:44:49.133078369Z"
     description: Fleet Manager - GitOps at Scale
     digest: 7604d7eb2a6ef5b119b0ee102ea528e63db77caff3441bd47c116964ac530887
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -88,7 +88,7 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-04-29T04:00:32.44818703Z"
+    created: "2021-04-29T19:44:49.132335713Z"
     description: Fleet Manager - GitOps at Scale
     digest: 2b05e7779f54c0bd853594b798662be27043d401ee4df1ef2393d25ae4ebbdb8
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -107,7 +107,7 @@ entries:
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-04-29T04:00:32.447476829Z"
+    created: "2021-04-29T19:44:49.131569455Z"
     description: Fleet Manager - GitOps at Scale
     digest: 80ebb76232c4d9c17199901ccce179c86d78202872266fdec29c417c78ee1a9d
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -124,9 +124,9 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-04-29T04:00:32.455651937Z"
+    created: "2021-04-29T19:44:49.137310088Z"
     description: Fleet Manager Agent - GitOps at Scale
-    digest: 69be5b28de20170d1434a374087c667f901aab3ef8a2927dfa416a1ef3fc26c3
+    digest: 2b64f1bd55a7df98995ea5d1cd62ada6c6dd517e64ea5de46aace956ad523250
     icon: https://charts.rancher.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
@@ -140,7 +140,7 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-04-29T04:00:32.454680636Z"
+    created: "2021-04-29T19:44:49.13693926Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 59fb278112c907eaf12dd963ded1aa6ae03be09bb795d2129fd35b6888fbd31c
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -156,7 +156,7 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-04-29T04:00:32.453490835Z"
+    created: "2021-04-29T19:44:49.136599934Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: f92cbe28d99ae754a590e3de5a3226109704c7a69376e1b824b5eb01e3997df3
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -172,7 +172,7 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.2
-    created: "2021-04-29T04:00:32.453012935Z"
+    created: "2021-04-29T19:44:49.135776472Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 2be8d753ca9d2ddc9f0c152a81021b146838223796a497841850486bc26f6457
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -188,7 +188,7 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-04-29T04:00:32.452528234Z"
+    created: "2021-04-29T19:44:49.135469749Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 1913e45bcda723490e3c1c1613f99a328b6414c472f9f7c490c087d7697563f1
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -204,7 +204,7 @@ entries:
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-04-29T04:00:32.452043634Z"
+    created: "2021-04-29T19:44:49.135167926Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 8b517f7d18f2aa1e34e5ac475684752dc8ff46f050cfd2b2d91fd343cab8cf50
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -221,9 +221,9 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-04-29T04:00:32.461796844Z"
+    created: "2021-04-29T19:44:49.14343835Z"
     description: Fleet Manager CustomResourceDefinitions
-    digest: d78e1e528148e0cb70679c0348054169df87235e0a10e1ebe2ce261cd7c86024
+    digest: ba1b9d54b32cdabf9ac639d8ab355d2c0e805321fba2bec51096f0f3b0798f2c
     icon: https://charts.rancher.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
@@ -237,7 +237,7 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-04-29T04:00:32.460525942Z"
+    created: "2021-04-29T19:44:49.142755098Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: 36c8f232f6d3f2698d0e43d7a95359555f0e8852cfb2c41d901eb09f807d291f
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -253,7 +253,7 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-04-29T04:00:32.459796642Z"
+    created: "2021-04-29T19:44:49.141337592Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: 35bbfc8e2276379965d8671b752530b4b3603cacab9106dad64f37839b2f1342
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -269,7 +269,7 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.2
-    created: "2021-04-29T04:00:32.459039041Z"
+    created: "2021-04-29T19:44:49.139978089Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: 025f0b2ee6f8b709c19ed2676faecba9579c9a14d526d9e16573eb8b98d5bc52
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -284,7 +284,7 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-04-29T04:00:32.45836934Z"
+    created: "2021-04-29T19:44:49.139012316Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: f47abbbcd5b2ca28dcb8303e01a5562da698ec78423c0dc4aa249e6f6b3b7eb4
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -299,7 +299,7 @@ entries:
       catalog.cattle.io/release-name: fleet-crd
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-04-29T04:00:32.456657738Z"
+    created: "2021-04-29T19:44:49.137808325Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: 08e3af78da30602b47b60ebfb8e509703dbedc5b312f6aa3a9e9b0275adca75a
     icon: https://charts.rancher.io/assets/logos/fleet.svg
@@ -319,9 +319,9 @@ entries:
       catalog.cattle.io/ui-component: longhorn
     apiVersion: v1
     appVersion: v1.1.1
-    created: "2021-04-29T04:00:32.470895553Z"
+    created: "2021-04-29T19:44:49.151553162Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
-    digest: 1506817161475bb8ff09ede7435680d2be9b991e5ab1b3ea31d67775feff66e1
+    digest: 064f114b7887fa71afc5575798904e399bab1a22ddad416e0cc75e50863b6120
     home: https://github.com/longhorn/longhorn
     icon: https://raw.githubusercontent.com/cncf/artwork/master/projects/longhorn/icon/color/longhorn-icon-color.png
     keywords:
@@ -360,7 +360,7 @@ entries:
       catalog.cattle.io/ui-component: longhorn
     apiVersion: v1
     appVersion: v1.1.0
-    created: "2021-04-29T04:00:32.46857375Z"
+    created: "2021-04-29T19:44:49.149833932Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
     digest: 98b46706eb8c7b6261c1aa03f5081429867076f8f8f28ff0e4fb2f7389d66ef3
     home: https://github.com/longhorn/longhorn
@@ -401,7 +401,7 @@ entries:
       catalog.cattle.io/ui-component: longhorn
     apiVersion: v1
     appVersion: v1.1.0
-    created: "2021-04-29T04:00:32.467074049Z"
+    created: "2021-04-29T19:44:49.14768957Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
     digest: aba8166911b39cfe44529c1ff3fd910e437ade64e72f39edc20957442605f619
     home: https://github.com/longhorn/longhorn
@@ -442,7 +442,7 @@ entries:
       catalog.cattle.io/ui-component: longhorn
     apiVersion: v1
     appVersion: v1.0.2
-    created: "2021-04-29T04:00:32.465483447Z"
+    created: "2021-04-29T19:44:49.146007844Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
     digest: b18eda4e4b1170b7e9f488782fb6409da084b5beaa9945a3a3babe39f031e320
     home: https://github.com/longhorn/longhorn
@@ -481,7 +481,7 @@ entries:
       catalog.cattle.io/ui-component: longhorn
     apiVersion: v1
     appVersion: v1.0.2
-    created: "2021-04-29T04:00:32.463794246Z"
+    created: "2021-04-29T19:44:49.144715146Z"
     description: Longhorn is a distributed block storage system for Kubernetes.
     digest: 66189346fc24f5407f7a11a41faf9913144801a72472151702e28f808d557073
     home: https://github.com/longhorn/longhorn
@@ -517,9 +517,9 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/release-name: longhorn-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.472046454Z"
+    created: "2021-04-29T19:44:49.153541212Z"
     description: Installs the CRDs for longhorn.
-    digest: b0871488fe8b7a29b585c7fa9cfa6d30605bfd2c5be49286bc0ba0bdaa7dd831
+    digest: 8c3d5f7c14d00c07024d1a0a589a8985b6b91096a415860204ed1be9cdf3dd8e
     name: longhorn-crd
     type: application
     urls:
@@ -531,7 +531,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/release-name: longhorn-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.471817654Z"
+    created: "2021-04-29T19:44:49.153045974Z"
     description: Installs the CRDs for longhorn.
     digest: 305196027ef02e1f01519b99302321fbb48dd5faca8084751758c5954f83f488
     name: longhorn-crd
@@ -545,7 +545,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/release-name: longhorn-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.471582353Z"
+    created: "2021-04-29T19:44:49.15233062Z"
     description: Installs the CRDs for longhorn.
     digest: 5d5f3a3493810aa0dfd263757819e00a8a483c5410c5ff4ff61f5d5fee3561b9
     name: longhorn-crd
@@ -559,7 +559,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/release-name: longhorn-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.471318953Z"
+    created: "2021-04-29T19:44:49.151919689Z"
     description: Installs the CRDs for longhorn.
     digest: 4da0eeeef78a45c8b0111bb66cfca1734088bcd9bb15b8bfd6712b0ab6320ca1
     name: longhorn-crd
@@ -573,7 +573,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/release-name: longhorn-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.471120053Z"
+    created: "2021-04-29T19:44:49.151742276Z"
     description: Installs the CRDs for longhorn.
     digest: c3fc8df8818d884c9df73999999834cebe41ce6567f60222792c2593ad853d31
     name: longhorn-crd
@@ -589,7 +589,7 @@ entries:
       catalog.cattle.io/release-name: rancher-alerting-drivers
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-29T04:00:32.473354055Z"
+    created: "2021-04-29T19:44:49.155915091Z"
     dependencies:
     - condition: prom2teams.enabled
       name: prom2teams
@@ -598,7 +598,7 @@ entries:
       name: sachet
       repository: file://./charts/sachet
     description: The manager for third-party webhook receivers used in Prometheus Alertmanager
-    digest: 77eddc167f1572d6d5201aee9612d22cd40afe3b5cad2a629bd5492b8eb70569
+    digest: adbd737421c221f86a487a47b964bc40578b1df8bd0768a3bcb2043b34472b8a
     keywords:
     - monitoring
     - alertmanger
@@ -620,9 +620,9 @@ entries:
       catalog.cattle.io/ui-component: rancher-backup
     apiVersion: v2
     appVersion: 1.0.4
-    created: "2021-04-29T04:00:32.477010659Z"
+    created: "2021-04-29T19:44:49.159078329Z"
     description: Provides ability to back up and restore the Rancher application running on any Kubernetes cluster
-    digest: ad4031543678692e6a2c967e8817c4218f12d80dd18c534cad49098e0ca4920e
+    digest: b6d29d4f7c42d5c8b73bf9bf50cf18dcfdcc094c1fa9a42522ab7573d919df86
     icon: https://charts.rancher.io/assets/logos/backup-restore.svg
     keywords:
     - applications
@@ -643,7 +643,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-backup
     apiVersion: v1
     appVersion: v1.0.3
-    created: "2021-04-29T04:00:32.475852358Z"
+    created: "2021-04-29T19:44:49.15841928Z"
     description: Provides ability to back up and restore the Rancher application running on any Kubernetes cluster
     digest: 21e586d307c78cc6a1321adaa89bef78719f0beca7f181c719cbca27691e6f5a
     icon: https://charts.rancher.io/assets/logos/backup-restore.svg
@@ -666,7 +666,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-backup
     apiVersion: v1
     appVersion: v1.0.3
-    created: "2021-04-29T04:00:32.475235457Z"
+    created: "2021-04-29T19:44:49.157785132Z"
     description: Provides ability to back up and restore the Rancher application running on any Kubernetes cluster
     digest: 733d4515a014e6c6d99f73db30d3143f7cef04a870b19a3b2f5eef5b09dbfc55
     icon: https://charts.rancher.io/assets/logos/backup-restore.svg
@@ -689,7 +689,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-backup
     apiVersion: v1
     appVersion: v1.0.2
-    created: "2021-04-29T04:00:32.474627556Z"
+    created: "2021-04-29T19:44:49.157240191Z"
     description: Provides ability to back up and restore the Rancher application running on any Kubernetes cluster
     digest: bd39f041d51be323dd59dbbb0bae5c21b7ebbdca5f777972080254eb996595b4
     icon: https://charts.rancher.io/assets/logos/backup-restore.svg
@@ -711,7 +711,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-backup
     apiVersion: v1
     appVersion: v1.0.2
-    created: "2021-04-29T04:00:32.473964356Z"
+    created: "2021-04-29T19:44:49.156650646Z"
     description: Provides ability to back up and restore the Rancher application running on any Kubernetes cluster
     digest: a3a4fcd83c7332bfafe1ee03c17dbdb43765364e97dc19f297884334486196c7
     icon: https://charts.rancher.io/assets/logos/backup-restore.svg
@@ -730,9 +730,9 @@ entries:
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v2
     appVersion: 1.0.4
-    created: "2021-04-29T04:00:32.479003361Z"
+    created: "2021-04-29T19:44:49.160251918Z"
     description: Installs the CRDs for rancher-backup.
-    digest: 8cd73b2eadd22608ea63d143257bbfb88aeeeceb97cfb273a26bded71d217f25
+    digest: 1405bd9fe9b60eeb89bf0255dbf9c84f21e5c891c403b45fbf98ba92b1f75d49
     name: rancher-backup-crd
     type: application
     urls:
@@ -744,7 +744,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.47857236Z"
+    created: "2021-04-29T19:44:49.1600141Z"
     description: Installs the CRDs for rancher-backup.
     digest: 3dedeb53130cb1050147156b87c770ab40a023be25f4d3342678eb7d8a33362d
     name: rancher-backup-crd
@@ -758,7 +758,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.47795426Z"
+    created: "2021-04-29T19:44:49.159791483Z"
     description: Installs the CRDs for rancher-backup.
     digest: da8413d2ecc169ba43aa5f6f3cb9da45c297140a1af2e702f11c4645f644c7e4
     name: rancher-backup-crd
@@ -772,7 +772,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.477652059Z"
+    created: "2021-04-29T19:44:49.159542064Z"
     description: Installs the CRDs for rancher-backup.
     digest: b42794ee6663cb35c6f40c1b43ce51f6b82d2f8efe06421c9b2a1cb7cea18503
     name: rancher-backup-crd
@@ -786,7 +786,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.477340059Z"
+    created: "2021-04-29T19:44:49.159313747Z"
     description: Installs the CRDs for rancher-backup.
     digest: 4d2cfbd4b413d0a86cd3c94a10a3316c44a668c79730a2a4063933aa0eb6e332
     name: rancher-backup-crd
@@ -806,9 +806,9 @@ entries:
       catalog.cattle.io/ui-component: rancher-cis-benchmark
     apiVersion: v1
     appVersion: v1.0.4
-    created: "2021-04-29T04:00:32.482701264Z"
+    created: "2021-04-29T19:44:49.163881291Z"
     description: The cis-operator enables running CIS benchmark security scans on a kubernetes cluster
-    digest: c7702077ecf6424204b2cb6fb7703b3a57af3794245532302520e292d4719f23
+    digest: b5df06219ce0350d2d28ed279ce008f293d4dd81fba2e52c4fdde2f5b9b6b2af
     icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
@@ -827,7 +827,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-cis-benchmark
     apiVersion: v1
     appVersion: v1.0.3
-    created: "2021-04-29T04:00:32.481815664Z"
+    created: "2021-04-29T19:44:49.163096732Z"
     description: The cis-operator enables running CIS benchmark security scans on a kubernetes cluster
     digest: c548033c5ec3822f2c89f0a1a19e3f4ce063f59a4ee021523642886ec3bf13a2
     icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
@@ -848,7 +848,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-cis-benchmark
     apiVersion: v1
     appVersion: v1.0.3
-    created: "2021-04-29T04:00:32.481083463Z"
+    created: "2021-04-29T19:44:49.162152361Z"
     description: The cis-operator enables running CIS benchmark security scans on a kubernetes cluster
     digest: 2cce59f4f78b975edd93b0d707c5282fa44a6fa1f19d702ed4be8c221170c8d1
     icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
@@ -869,7 +869,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-cis-benchmark
     apiVersion: v1
     appVersion: v1.0.2
-    created: "2021-04-29T04:00:32.480315662Z"
+    created: "2021-04-29T19:44:49.161428006Z"
     description: The cis-operator enables running CIS benchmark security scans on a kubernetes cluster
     digest: b3a6ce49c5e6918a1658f682fdf25e241d9638fde4b8c046a70562c13228c8c0
     icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
@@ -889,7 +889,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-cis-benchmark
     apiVersion: v1
     appVersion: v1.0.1
-    created: "2021-04-29T04:00:32.479675061Z"
+    created: "2021-04-29T19:44:49.16081086Z"
     description: The cis-operator enables running CIS benchmark security scans on a kubernetes cluster
     digest: 407c19666ce5c083c50d8ef2cbc4fbc26b811106bbfc6b3d25a659a593c0aa3c
     icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
@@ -906,9 +906,9 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/release-name: rancher-cis-benchmark-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.483926266Z"
+    created: "2021-04-29T19:44:49.165359503Z"
     description: Installs the CRDs for rancher-cis-benchmark.
-    digest: ed770067c074b1affad173114f8d32559e9c2a2909afad7eed4f4e33e39e4241
+    digest: a01821c53779937464f162a4ba3ace3dcfbee582b69959cab763658f939c681f
     name: rancher-cis-benchmark-crd
     type: application
     urls:
@@ -920,7 +920,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/release-name: rancher-cis-benchmark-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.483686465Z"
+    created: "2021-04-29T19:44:49.164730755Z"
     description: Installs the CRDs for rancher-cis-benchmark.
     digest: cabb44716892582bee08bd13c48caa3863c9f53218f2ffa1f1bc123ae7234d5a
     name: rancher-cis-benchmark-crd
@@ -934,7 +934,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/release-name: rancher-cis-benchmark-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.483434665Z"
+    created: "2021-04-29T19:44:49.16452344Z"
     description: Installs the CRDs for rancher-cis-benchmark.
     digest: 20d71a2ae15f77913229f809c4acf5924f988a0cfc09061306d65c45899618ce
     name: rancher-cis-benchmark-crd
@@ -948,7 +948,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/release-name: rancher-cis-benchmark-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.483192565Z"
+    created: "2021-04-29T19:44:49.164314724Z"
     description: Installs the CRDs for rancher-cis-benchmark.
     digest: b12e7bc934602f88087b34540446a2cdc8af5cb30ede6d4d3a48dc29ded1daaa
     name: rancher-cis-benchmark-crd
@@ -962,7 +962,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/release-name: rancher-cis-benchmark-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.482949565Z"
+    created: "2021-04-29T19:44:49.164102708Z"
     description: Installs the CRDs for rancher-cis-benchmark.
     digest: 2be8b1e2aa24e83d8b20439d0b0343851fbd32495306d38d5d20c62d95b0a8b5
     name: rancher-cis-benchmark-crd
@@ -980,7 +980,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
     apiVersion: v1
     appVersion: v0.1.6
-    created: "2021-04-29T04:00:32.486839669Z"
+    created: "2021-04-29T19:44:49.168949373Z"
     description: 'Deploy the external-ip-webhook to mitigate k8s CVE-2020-8554 '
     digest: 14ed8a7f5417a863a325a65d1f9ca1e6a686e36964a1b9bde249abe05d530fad
     home: https://github.com/rancher/externalip-webhook
@@ -1007,7 +1007,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
     apiVersion: v1
     appVersion: v0.1.6
-    created: "2021-04-29T04:00:32.485876668Z"
+    created: "2021-04-29T19:44:49.168048806Z"
     description: 'Deploy the external-ip-webhook to mitigate k8s CVE-2020-8554 '
     digest: 245d80daa0b7c6316217b2ec9df111060fe6762728a5d9adfb163d7afd02fc9b
     home: https://github.com/rancher/externalip-webhook
@@ -1034,7 +1034,7 @@ entries:
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
     apiVersion: v1
     appVersion: v0.1.4
-    created: "2021-04-29T04:00:32.484905967Z"
+    created: "2021-04-29T19:44:49.166534191Z"
     description: 'Deploy the external-ip-webhook to mitigate k8s CVE-2020-8554 '
     digest: 7fa93b5a3f3e9bd5ebcf0e8cc670441a5fd63dd611ee0843e08a6521fa315838
     home: https://github.com/rancher/externalip-webhook
@@ -1064,9 +1064,9 @@ entries:
       catalog.cattle.io/ui-component: gatekeeper
     apiVersion: v1
     appVersion: v3.3.0
-    created: "2021-04-29T04:00:32.492068574Z"
+    created: "2021-04-29T19:44:49.173342005Z"
     description: Modifies Open Policy Agent's upstream gatekeeper chart that provides policy-based control for cloud native environments
-    digest: 4b618b35d82aecec01672487698e412d8404e03c709152b1f44dc86d3d12a303
+    digest: 81cb14ca7969a6c5928a2f847c2cc500e38999a5a1743dd89dd6dd5627d97a04
     home: https://github.com/open-policy-agent/gatekeeper
     icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
     keywords:
@@ -1089,7 +1089,7 @@ entries:
       catalog.cattle.io/ui-component: gatekeeper
     apiVersion: v1
     appVersion: v3.3.0
-    created: "2021-04-29T04:00:32.490453272Z"
+    created: "2021-04-29T19:44:49.172395933Z"
     description: Modifies Open Policy Agent's upstream gatekeeper chart that provides policy-based control for cloud native environments
     digest: cdd2cb75ded06543e55124c5086a12c06e323c0398319e8c8984c73e19dd58bc
     home: https://github.com/open-policy-agent/gatekeeper
@@ -1115,7 +1115,7 @@ entries:
       catalog.cattle.io/ui-component: gatekeeper
     apiVersion: v1
     appVersion: v3.2.1
-    created: "2021-04-29T04:00:32.489277271Z"
+    created: "2021-04-29T19:44:49.171414059Z"
     description: Modifies Open Policy Agent's upstream gatekeeper chart that provides policy-based control for cloud native environments
     digest: 3d0e961fc109e051f08edacf9e541e5ad1c0c65f046cae72459df0ca4aa22312
     home: https://github.com/open-policy-agent/gatekeeper
@@ -1140,7 +1140,7 @@ entries:
       catalog.cattle.io/release-name: rancher-gatekeeper
     apiVersion: v1
     appVersion: v3.1.1
-    created: "2021-04-29T04:00:32.48844177Z"
+    created: "2021-04-29T19:44:49.170592797Z"
     description: Modifies Open Policy Agent's upstream gatekeeper chart that provides policy-based control for cloud native environments
     digest: 36aebc7718e4afd4d9bb65775276d2288eb0de27192d0d290553a7c7087d7f3f
     home: https://github.com/open-policy-agent/gatekeeper
@@ -1164,7 +1164,7 @@ entries:
       catalog.cattle.io/release-name: rancher-gatekeeper
     apiVersion: v1
     appVersion: v3.1.1
-    created: "2021-04-29T04:00:32.487645469Z"
+    created: "2021-04-29T19:44:49.169714731Z"
     description: Modifies Open Policy Agent's upstream gatekeeper chart that provides policy-based control for cloud native environments
     digest: 15a4540b7e32c62157c37cfdb9230ce4b11c5837a2f3734378fcd7ec9c824559
     home: https://github.com/open-policy-agent/gatekeeper
@@ -1185,9 +1185,9 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/release-name: rancher-gatekeeper-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.494600176Z"
+    created: "2021-04-29T19:44:49.175207645Z"
     description: Installs the CRDs for rancher-gatekeeper.
-    digest: 1092a6c2d3c2d846965d25d0ab348c7dd2adbdb7d866a6f8814bc75332359655
+    digest: fe0787ff00baf526240e4c06b041c336c7885a06bd72753696d589e0c97cc38b
     name: rancher-gatekeeper-crd
     type: application
     urls:
@@ -1199,7 +1199,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/release-name: rancher-gatekeeper-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.494019076Z"
+    created: "2021-04-29T19:44:49.174811415Z"
     description: Installs the CRDs for rancher-gatekeeper.
     digest: 48a03a80fadacabc507fec107dbed749d94fafbef0d26e4eb37e92c974a7c56b
     name: rancher-gatekeeper-crd
@@ -1214,7 +1214,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/release-name: rancher-gatekeeper-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.493420575Z"
+    created: "2021-04-29T19:44:49.174241072Z"
     description: Installs the CRDs for rancher-gatekeeper.
     digest: 34f449b69d1b50ff1743ae3b1e81553aec3f0a70c8ac7572c60071a8271b53e2
     name: rancher-gatekeeper-crd
@@ -1229,7 +1229,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/release-name: rancher-gatekeeper-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.492800374Z"
+    created: "2021-04-29T19:44:49.173879945Z"
     description: Installs the CRDs for rancher-gatekeeper.
     digest: e3da4139207bfa07850db780574a028b5e32c66c1ee57b706fb13fdec5311514
     name: rancher-gatekeeper-crd
@@ -1244,7 +1244,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/release-name: rancher-gatekeeper-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.492448074Z"
+    created: "2021-04-29T19:44:49.173628326Z"
     description: Installs the CRDs for rancher-gatekeeper.
     digest: 89d80de1bea71d134b19e6092ae123c08173c172a5201d54b4baa6afedea3855
     name: rancher-gatekeeper-crd
@@ -1261,9 +1261,9 @@ entries:
       catalog.rancher.io/release-name: rancher-grafana
     apiVersion: v2
     appVersion: 7.4.5
-    created: "2021-04-29T04:00:32.497558879Z"
+    created: "2021-04-29T19:44:49.177937551Z"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 33968c6ec062fc005cdc7ca8fdc9bfdeb5986bf14083cd57dbeaba4d52909cb5
+    digest: cca1d14182090abc61796cb9b1849c79c99cd7a8b0199d3788e1632198a92f11
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -1299,7 +1299,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.9.3
-    created: "2021-04-29T04:00:32.523885705Z"
+    created: "2021-04-29T19:44:49.205658241Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1308,7 +1308,7 @@ entries:
       name: tracing
       repository: file://./charts/tracing
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/ for details.
-    digest: 937c148641a4731ff2f750af2dc7090b6e45811c00746a154ce61a0093401932
+    digest: 84b8d587ed83193ba6d932de8e78fdcac8892c8721138c4d893e87510b86a1bd
     icon: https://charts.rancher.io/assets/logos/istio.svg
     keywords:
     - networking
@@ -1330,7 +1330,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.9.2
-    created: "2021-04-29T04:00:32.521204803Z"
+    created: "2021-04-29T19:44:49.202629913Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1339,7 +1339,7 @@ entries:
       name: tracing
       repository: file://./charts/tracing
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/ for details.
-    digest: 2e17c0a43447784f4d0a80d058df5ca3e433d839d28bc366c437047af929d6e6
+    digest: 6a652626ae8c2e2ce5670729b15d9aacd56df6b6cee68e91875a210f26aa73d7
     icon: https://charts.rancher.io/assets/logos/istio.svg
     keywords:
     - networking
@@ -1361,7 +1361,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.8.5
-    created: "2021-04-29T04:00:32.5183733Z"
+    created: "2021-04-29T19:44:49.196693865Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1370,7 +1370,7 @@ entries:
       name: tracing
       repository: file://./charts/tracing
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/ for details.
-    digest: 7c9c8dbccfa0522f721915bd1cfea6f7eb41b3ece6f2fa499f61f18ca44b9c13
+    digest: 61b90489f85e2ff19289e543004431970bc68baa916f91dce0bdfbf63d8a810d
     icon: https://charts.rancher.io/assets/logos/istio.svg
     keywords:
     - networking
@@ -1392,7 +1392,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.8.4
-    created: "2021-04-29T04:00:32.515627697Z"
+    created: "2021-04-29T19:44:49.194068367Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1401,7 +1401,7 @@ entries:
       name: tracing
       repository: file://./charts/tracing
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/ for details.
-    digest: e99f6e3f3f58baf52eebc98c38cabbaa32d86d51c1b6b947c6928714a8ca1cbe
+    digest: 9aef45af79bf5ce2408c7cd5a5ab89d86ad8d0680be0b61756dbdc826ae9c038
     icon: https://charts.rancher.io/assets/logos/istio.svg
     keywords:
     - networking
@@ -1423,7 +1423,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.8.3
-    created: "2021-04-29T04:00:32.510548892Z"
+    created: "2021-04-29T19:44:49.191415367Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1432,7 +1432,7 @@ entries:
       name: tracing
       repository: file://./charts/tracing
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/ for details.
-    digest: ce0b4d02a257e3a99a146b66455961bac308fc20bd150f0eb35832d7e13dc37c
+    digest: 98729463a98b59bf5977be233045e7d3a240c8413731cc122cc4d19c13517ff0
     icon: https://charts.rancher.io/assets/logos/istio.svg
     keywords:
     - networking
@@ -1454,7 +1454,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.8.3
-    created: "2021-04-29T04:00:32.507281389Z"
+    created: "2021-04-29T19:44:49.188630057Z"
     dependencies:
     - condition: kiali.enabled
       name: kiali
@@ -1483,7 +1483,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.7.3
-    created: "2021-04-29T04:00:32.504658286Z"
+    created: "2021-04-29T19:44:49.186067564Z"
     dependencies:
     - alias: kiali
       condition: kiali.enabled
@@ -1516,7 +1516,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.7.3
-    created: "2021-04-29T04:00:32.502045784Z"
+    created: "2021-04-29T19:44:49.183500371Z"
     dependencies:
     - alias: kiali
       condition: kiali.enabled
@@ -1544,7 +1544,7 @@ entries:
       catalog.cattle.io/ui-component: istio
     apiVersion: v1
     appVersion: 1.7.1
-    created: "2021-04-29T04:00:32.499826381Z"
+    created: "2021-04-29T19:44:49.181115791Z"
     dependencies:
     - alias: kiali
       condition: kiali.enabled
@@ -1572,9 +1572,9 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.32.0
-    created: "2021-04-29T04:00:32.532481514Z"
+    created: "2021-04-29T19:44:49.213222012Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
-    digest: 9dc628a2fb8274255852fce4ab76815e2417080aad381752c932ab983652bb92
+    digest: 534d17a4ab20567e81061c95848b45fc01ee5ce077516100fa55078295a5159d
     home: https://github.com/kiali/kiali
     icon: https://raw.githubusercontent.com/kiali/kiali.io/master/themes/kiali/static/img/kiali_logo_masthead.png
     keywords:
@@ -1605,9 +1605,9 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.29.0
-    created: "2021-04-29T04:00:32.530791412Z"
+    created: "2021-04-29T19:44:49.211975818Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
-    digest: 7ad61af38034bb1ad8b9202d690b323a71a9ee74d8f97873b08c8c34df712f4d
+    digest: 29863ca80eddf158d5e9e674571d3d8727b559dfa34c0ff2bfc3eb398028355b
     home: https://github.com/kiali/kiali
     icon: https://raw.githubusercontent.com/kiali/kiali.io/master/themes/kiali/static/img/kiali_logo_masthead.png
     keywords:
@@ -1638,7 +1638,7 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.29.0
-    created: "2021-04-29T04:00:32.52868011Z"
+    created: "2021-04-29T19:44:49.210611715Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
     digest: 8cecd60c2fa1ae2dea0c4d3672b7ca73152835bfeb93906113ca4d05c02e9587
     home: https://github.com/kiali/kiali
@@ -1671,7 +1671,7 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.24.0
-    created: "2021-04-29T04:00:32.527417109Z"
+    created: "2021-04-29T19:44:49.209394423Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
     digest: 2b702639bc1b563fa3e9e0cdb5fff1ca4de696860566f1c863c04fb7ebc06038
     home: https://github.com/kiali/kiali
@@ -1704,7 +1704,7 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.24.0
-    created: "2021-04-29T04:00:32.526277008Z"
+    created: "2021-04-29T19:44:49.208200633Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
     digest: a86791daaf668b0f67db337a9f37f13d4a836d9bd689401ba2ef8f6e83d9a6a3
     home: https://github.com/kiali/kiali
@@ -1737,7 +1737,7 @@ entries:
       catalog.rancher.io/release-name: rancher-kiali-server
     apiVersion: v2
     appVersion: v1.23.0
-    created: "2021-04-29T04:00:32.525074607Z"
+    created: "2021-04-29T19:44:49.207057147Z"
     description: Kiali is an open source project for service mesh observability, refer to https://www.kiali.io for details. This is installed as sub-chart with customized values in Rancher's Istio.
     digest: 0aea4d28b274a7c2549f675c2a3fc1be165ef4acd72676a18ed5f92f1e7a2b1a
     home: https://github.com/kiali/kiali
@@ -1764,9 +1764,9 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.533586515Z"
+    created: "2021-04-29T19:44:49.214156282Z"
     description: Installs the CRDs for rancher-kiali-server.
-    digest: 52f1b4b9c0447a6a036bd78bcb38e2e39ee32e6be9b67f6ca2a96fe4cc840d3f
+    digest: beee2fdf550cc409b5cebb6ed15c66aa9c178d610ae1a291b8019aaac8645b9d
     name: rancher-kiali-server-crd
     type: application
     urls:
@@ -1775,9 +1775,9 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.533413415Z"
+    created: "2021-04-29T19:44:49.21400177Z"
     description: Installs the CRDs for rancher-kiali-server.
-    digest: 02099366519e682161b3adada7c2c96f17c65fe429e882c2ce893477a091eb8a
+    digest: 83f3a5d36adbec0fbe6d55b111d6f84fb7eaa77550e8204b468e03e3a404dc7a
     name: rancher-kiali-server-crd
     type: application
     urls:
@@ -1786,7 +1786,7 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.533244715Z"
+    created: "2021-04-29T19:44:49.213841058Z"
     description: Installs the CRDs for rancher-kiali-server.
     digest: 4ddd8248707294cb91fdd1c2fd9994417bf265b7f649312e82a4f1a86b60e9b6
     name: rancher-kiali-server-crd
@@ -1797,7 +1797,7 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.533069415Z"
+    created: "2021-04-29T19:44:49.213700348Z"
     description: Installs the CRDs for rancher-kiali-server.
     digest: c8635521da746674695c7833a5509ee92c615adabd47e511e1dd7c2617a4bf7b
     name: rancher-kiali-server-crd
@@ -1808,7 +1808,7 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.532862414Z"
+    created: "2021-04-29T19:44:49.213542336Z"
     description: Installs the CRDs for rancher-kiali-server.
     digest: bd55c5af7c26744e91922c6a9463c10e52ba65ddf0cf148107461f2983a71223
     name: rancher-kiali-server-crd
@@ -1819,7 +1819,7 @@ entries:
   - annotations:
       catalog.cattle.io/hidden: "true"
     apiVersion: v2
-    created: "2021-04-29T04:00:32.532679914Z"
+    created: "2021-04-29T19:44:49.213390424Z"
     description: Installs the CRDs for rancher-kiali-server.
     digest: 5d5ebb3498ac0b64cf1a73d743b0f3f45fd40c0a9ee3b26d94ae60176e523574
     name: rancher-kiali-server-crd
@@ -1836,9 +1836,9 @@ entries:
       catalog.rancher.io/release-name: rancher-kube-state-metrics
     apiVersion: v1
     appVersion: 1.9.8
-    created: "2021-04-29T04:00:32.534877516Z"
+    created: "2021-04-29T19:44:49.21598272Z"
     description: Install kube-state-metrics to generate and expose cluster-level metrics
-    digest: 8f0644f768f32723f1a1d0912342fdc297299cfa78a5b9509b1ddaebdea62f50
+    digest: 793034337c501f74ce569a8340a110b99eeb419601f2f30d3b4b8ae7a325edec
     home: https://github.com/kubernetes/kube-state-metrics/
     keywords:
     - metric
@@ -1867,9 +1867,9 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.9.4
-    created: "2021-04-29T04:00:32.544040226Z"
+    created: "2021-04-29T19:44:49.225164612Z"
     description: Collects and filter logs using highly configurable CRDs. Powered by Banzai Cloud Logging Operator.
-    digest: 9bbf4e61f123375b017e2d024aa2296769058410d2c025699925561176d5439b
+    digest: 0ea1e2b1b42260fb62c28f114e0a4ca1a94fb823eb5ba183b8ef806be9c1d93f
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -1890,9 +1890,9 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.9.0
-    created: "2021-04-29T04:00:32.542157324Z"
+    created: "2021-04-29T19:44:49.223844813Z"
     description: Collects and filter logs using highly configurable CRDs. Powered by Banzai Cloud Logging Operator.
-    digest: a9a2879c28620aa29934f4466b4e574a8ebe17011425aa633fcdca30894d00ee
+    digest: 68d1a0de6e9ceb60291842b657928669d0c381bba4d43c27371d1c6484c28e8a
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -1913,9 +1913,9 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.9.0
-    created: "2021-04-29T04:00:32.540863922Z"
+    created: "2021-04-29T19:44:49.222599019Z"
     description: Collects and filter logs using highly configurable CRDs. Powered by Banzai Cloud Logging Operator.
-    digest: 100f6912ac43f1681012b2e0a0f1e29e49a3202042af93760dda4966722c590b
+    digest: eed53a3754660b3e9bb3bcf07db8a68e6f1eae10ac9bea533a65f9c4793f85d3
     icon: https://charts.rancher.io/assets/logos/logging.svg
     keywords:
     - logging
@@ -1936,7 +1936,7 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.9.0
-    created: "2021-04-29T04:00:32.539516521Z"
+    created: "2021-04-29T19:44:49.221378427Z"
     description: Collects and filter logs using highly configurable CRDs. Powered by Banzai Cloud Logging Operator.
     digest: b6b5e0c627f5594033b3558ff1f2d9c01b1f504a53cbc91b4e75d443ef81a784
     icon: https://charts.rancher.io/assets/logos/logging.svg
@@ -1959,7 +1959,7 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.8.2
-    created: "2021-04-29T04:00:32.53826332Z"
+    created: "2021-04-29T19:44:49.220122832Z"
     description: Collects and filter logs using highly configurable CRDs. Powered by Banzai Cloud Logging Operator.
     digest: 7ec4dfb2441832d22651e9263f4bbdcda9e1f064b9e32c70d0fb7c4f6641331a
     icon: https://charts.rancher.io/assets/logos/logging.svg
@@ -1982,7 +1982,7 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.6.0
-    created: "2021-04-29T04:00:32.537100219Z"
+    created: "2021-04-29T19:44:49.218977346Z"
     description: Collects and filter logs using highly configurable CRDs.  Powered by Banzai Cloud Logging Operator.
     digest: a89b3a4327484343c59a88949479c106e40b2587df194e18910cf83099291aa6
     icon: https://charts.rancher.io/assets/logos/logging.svg
@@ -2004,7 +2004,7 @@ entries:
       catalog.cattle.io/ui-component: logging
     apiVersion: v1
     appVersion: 3.6.0
-    created: "2021-04-29T04:00:32.535947617Z"
+    created: "2021-04-29T19:44:49.217384925Z"
     description: Collects and filter logs using highly configurable CRDs.  Powered by Banzai Cloud Logging Operator.
     digest: 3f3cd871fe5c6708b3fcdcd7a9f6e87ee41eb8f5505bdaed3f01791ac2bf7faf
     icon: https://charts.rancher.io/assets/logos/logging.svg
@@ -2023,9 +2023,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.556863338Z"
+    created: "2021-04-29T19:44:49.238605025Z"
     description: Installs the CRDs for rancher-logging.
-    digest: 33faab5d3e1b8d6b9a0549af1b1b76cf29f9a63134385bf937b2527ab3b7f9a9
+    digest: 60c95ae00c80ccae73551fb9bb8000bdfcefaa2556346e44edc07d80e09840fc
     name: rancher-logging-crd
     type: application
     urls:
@@ -2037,9 +2037,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.554807636Z"
+    created: "2021-04-29T19:44:49.236311953Z"
     description: Installs the CRDs for rancher-logging.
-    digest: 01cacb2b69b6c6d57b1058cc277ca260662ce5e3cd90c12c4f8fac8bde52d344
+    digest: 0b6ff9b5f260a83602d53bb6f662f9af463148f232dfa7cd5bd1524f5f5e6f6e
     name: rancher-logging-crd
     type: application
     urls:
@@ -2051,9 +2051,9 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.553276735Z"
+    created: "2021-04-29T19:44:49.234451712Z"
     description: Installs the CRDs for rancher-logging.
-    digest: f7dde3dab7a40e8623b9d81d104b5e94cf11476282cf2a9ee13f88cea412ddbc
+    digest: 289002cf9a60b7055a937d44bdaa66a8d657649fc70322af966185054c929f60
     name: rancher-logging-crd
     type: application
     urls:
@@ -2065,7 +2065,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.551481433Z"
+    created: "2021-04-29T19:44:49.232112836Z"
     description: Installs the CRDs for rancher-logging.
     digest: 2ab6fc36daf86c405b536970d9ed4dcb68f84ac93df7ac3811dd123ba82448bd
     name: rancher-logging-crd
@@ -2079,7 +2079,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.54871103Z"
+    created: "2021-04-29T19:44:49.230529817Z"
     description: Installs the CRDs for rancher-logging.
     digest: 351b69ac821716e05b4648f6fe175bfc8b25fee5dc8b7088cc3b77a7d8596b76
     name: rancher-logging-crd
@@ -2093,7 +2093,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.547262729Z"
+    created: "2021-04-29T19:44:49.228818888Z"
     description: Installs the CRDs for rancher-logging.
     digest: 582846a78f045a48088f355599a0abd62c98ce62698ef7fe59ed2180f2016441
     name: rancher-logging-crd
@@ -2107,7 +2107,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/release-name: rancher-logging-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.545950727Z"
+    created: "2021-04-29T19:44:49.226531715Z"
     description: Installs the CRDs for rancher-logging.
     digest: 1c24d7465ba9a4ae3613ffad12cea6d6a60df66a9fbf4d0f2674c4efec2616f2
     name: rancher-logging-crd
@@ -2134,7 +2134,7 @@ entries:
       catalog.cattle.io/ui-component: monitoring
     apiVersion: v2
     appVersion: 0.46.0
-    created: "2021-04-29T04:00:32.58816957Z"
+    created: "2021-04-29T19:44:49.267522506Z"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2191,7 +2191,7 @@ entries:
       name: windowsExporter
       repository: file://./charts/windowsExporter
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 235ebd45d2ce79a168e146678edf9902652aab4f8329ebef197f749b89231aa0
+    digest: f33577f16b85901496aeebc03c52e04249d6cad9ccb9acde97ae94d21779e902
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
@@ -2240,7 +2240,7 @@ entries:
       catalog.cattle.io/ui-component: monitoring
     apiVersion: v1
     appVersion: 0.38.1
-    created: "2021-04-29T04:00:32.680276561Z"
+    created: "2021-04-29T19:44:49.358870593Z"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -2339,7 +2339,7 @@ entries:
       catalog.cattle.io/ui-component: monitoring
     apiVersion: v1
     appVersion: 0.38.1
-    created: "2021-04-29T04:00:32.653804535Z"
+    created: "2021-04-29T19:44:49.334195233Z"
     dependencies:
     - condition: kubeStateMetrics.enabled
       name: kube-state-metrics
@@ -2466,7 +2466,7 @@ entries:
       catalog.cattle.io/ui-component: monitoring
     apiVersion: v1
     appVersion: 0.38.1
-    created: "2021-04-29T04:00:32.633090714Z"
+    created: "2021-04-29T19:44:49.314046214Z"
     dependencies:
     - condition: kubeStateMetrics.enabled
       name: kube-state-metrics
@@ -2592,7 +2592,7 @@ entries:
       catalog.cattle.io/ui-component: monitoring
     apiVersion: v1
     appVersion: 0.38.1
-    created: "2021-04-29T04:00:32.610716692Z"
+    created: "2021-04-29T19:44:49.289802286Z"
     dependencies:
     - condition: kubeStateMetrics.enabled
       name: kube-state-metrics
@@ -2719,9 +2719,9 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.685545367Z"
+    created: "2021-04-29T19:44:49.365337581Z"
     description: Installs the CRDs for rancher-monitoring.
-    digest: 5a50c81357a16c408eaf90001199a2afedf931b964dea6f61326ef8614c91ae8
+    digest: fbe80bd8253195ef9f9df739cc63e9b1b566900373ad5a2a9a9fdc983085e97e
     name: rancher-monitoring-crd
     type: application
     urls:
@@ -2733,7 +2733,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.717332198Z"
+    created: "2021-04-29T19:44:49.388475126Z"
     description: Installs the CRDs for rancher-monitoring.
     digest: 63a81f944774e646f6549c545f7c6b56635218bc135b9421eab224c6139dcbf7
     name: rancher-monitoring-crd
@@ -2747,7 +2747,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.711335892Z"
+    created: "2021-04-29T19:44:49.382199352Z"
     description: Installs the CRDs for rancher-monitoring.
     digest: 60945c2274b7c169ad84240e7facc9aa8d3a0a4e649c3dcd6e6b21f336a257d8
     name: rancher-monitoring-crd
@@ -2761,7 +2761,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.705475787Z"
+    created: "2021-04-29T19:44:49.376554127Z"
     description: Installs the CRDs for rancher-monitoring.
     digest: 09532cc000ee5a78dbda15c879ad1af9f9c2f8bc08db4067a6756df1a0206de3
     name: rancher-monitoring-crd
@@ -2775,7 +2775,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/release-name: rancher-monitoring-crd
     apiVersion: v1
-    created: "2021-04-29T04:00:32.700324881Z"
+    created: "2021-04-29T19:44:49.371113216Z"
     description: Installs the CRDs for rancher-monitoring.
     digest: 101721abb2876816b54234568272d0372c274ed3e4851a9c94077f61fefb8a49
     name: rancher-monitoring-crd
@@ -2792,9 +2792,9 @@ entries:
       catalog.rancher.io/release-name: rancher-node-exporter
     apiVersion: v1
     appVersion: 1.1.2
-    created: "2021-04-29T04:00:32.7186707Z"
+    created: "2021-04-29T19:44:49.389378294Z"
     description: A Helm chart for prometheus node-exporter
-    digest: 43fd614041d0d1d741783f9806cb1cc8a77d6b99f9ab374138bdaf7d661bf404
+    digest: b66420de02d7366a59bcac72cfd0d7b75d0e12ba46cfce2015ffdc7add496996
     home: https://github.com/prometheus/node_exporter/
     keywords:
     - node-exporter
@@ -2823,9 +2823,9 @@ entries:
       catalog.cattle.io/release-name: rancher-operator
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-04-29T04:00:32.720575602Z"
+    created: "2021-04-29T19:44:49.390727195Z"
     description: Control Rancher using GitOps
-    digest: d7c954870371eb85c92e5c57c45ed9b8ba65d0452a8ad386aac5f67848e7da18
+    digest: 61af48a6fb2282ab4b1320c568de954b5ef774d91846a774a74c147fe79f5ee0
     name: rancher-operator
     urls:
     - released/assets/rancher-operator/rancher-operator-0.1.400.tgz
@@ -2841,7 +2841,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator
     apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-04-29T04:00:32.720281001Z"
+    created: "2021-04-29T19:44:49.390465176Z"
     description: Control Rancher using GitOps
     digest: 73ebe2ffee0dd484246cef9e4eec8b4728a98253803ecebc2abc4bd5700eddc8
     name: rancher-operator
@@ -2859,7 +2859,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator
     apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-04-29T04:00:32.719985001Z"
+    created: "2021-04-29T19:44:49.390192655Z"
     description: Control Rancher using GitOps
     digest: a431b39ca8d0046829be03765882af1f6676862ea1c301c7721defcfc8461fa9
     name: rancher-operator
@@ -2877,7 +2877,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-04-29T04:00:32.719678301Z"
+    created: "2021-04-29T19:44:49.389943736Z"
     description: Control Rancher using GitOps
     digest: 3ccc2bdbe07d4cbd710bc1ff9119a9f5acf5bbd9abb38878de214dd99c9b4a52
     name: rancher-operator
@@ -2895,7 +2895,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.7193463Z"
+    created: "2021-04-29T19:44:49.389671416Z"
     description: Control Rancher using GitOps
     digest: 77aa64d9f0e5a9573497e0f4ae7fb509f4af4df825b64bce327dc97ac18ac222
     name: rancher-operator
@@ -2911,9 +2911,9 @@ entries:
       catalog.cattle.io/release-name: rancher-operator-crd
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-04-29T04:00:32.723447304Z"
+    created: "2021-04-29T19:44:49.393548508Z"
     description: Rancher Operator CustomResourceDefinitions
-    digest: 9af0a11b09f070c987583d30fb055ca792c49beb848764f21701a2e15a2ae2bc
+    digest: a51672fc681218ea162c58540044ff906efcac08594ea80f241b86abce596756
     name: rancher-operator-crd
     urls:
     - released/assets/rancher-operator-crd/rancher-operator-crd-0.1.400.tgz
@@ -2926,7 +2926,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator-crd
     apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-04-29T04:00:32.722844304Z"
+    created: "2021-04-29T19:44:49.392666142Z"
     description: Rancher Operator CustomResourceDefinitions
     digest: b87b2406be42cbe1ca0ba6068bcf3ce16f42227de12997b64ebe6053de221c7d
     name: rancher-operator-crd
@@ -2941,7 +2941,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator-crd
     apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-04-29T04:00:32.722047403Z"
+    created: "2021-04-29T19:44:49.392095299Z"
     description: Rancher Operator CustomResourceDefinitions
     digest: 383784b8f509d7b8eeee1d46506f73d69f39ad8016915884ff7685ed882280c0
     name: rancher-operator-crd
@@ -2955,7 +2955,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator-crd
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2021-04-29T04:00:32.721563803Z"
+    created: "2021-04-29T19:44:49.391624763Z"
     description: Rancher Operator CustomResourceDefinitions
     digest: 5133ec446717fde0269f25fa85858e17728f59cf054bb7de20099393b503d466
     name: rancher-operator-crd
@@ -2969,7 +2969,7 @@ entries:
       catalog.cattle.io/release-name: rancher-operator-crd
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.721057802Z"
+    created: "2021-04-29T19:44:49.391160628Z"
     description: Rancher Operator CustomResourceDefinitions
     digest: 209d2cbcad3a3c15c31a2435bdfc46db77e6b6767b5dae1880cb9fc0035ad1fa
     name: rancher-operator-crd
@@ -2984,9 +2984,9 @@ entries:
       catalog.cattle.io/release-name: rancher-prom2teams
     apiVersion: v1
     appVersion: 3.2.1
-    created: "2021-04-29T04:00:32.724082805Z"
+    created: "2021-04-29T19:44:49.394542283Z"
     description: A Helm chart for Prom2Teams based on the upstream https://github.com/idealista/prom2teams
-    digest: 543ff56156e60b04b11742eb992400387299d303e38719fe4ac6558c989f61a6
+    digest: a79cf0f9883ee27d7bd4bd2db450c7a406758e22c81150a197e93c89264fa38e
     name: rancher-prom2teams
     urls:
     - released/assets/rancher-prom2teams/rancher-prom2teams-0.2.000.tgz
@@ -3000,9 +3000,9 @@ entries:
       catalog.rancher.io/release-name: rancher-prometheus-adapter
     apiVersion: v1
     appVersion: v0.8.3
-    created: "2021-04-29T04:00:32.725184706Z"
+    created: "2021-04-29T19:44:49.39622801Z"
     description: A Helm chart for k8s prometheus adapter
-    digest: dd2581d7502fa3dda51f131dae91ce094550992a5008a25b4b80f84d87a832fa
+    digest: ef23b167a5e0b0663cc2e6ff046c9ffeddb47c78a9a253dbe7509a691289906c
     home: https://github.com/DirectXMan12/k8s-prometheus-adapter
     keywords:
     - hpa
@@ -3031,9 +3031,9 @@ entries:
       catalog.rancher.io/release-name: rancher-pushprox
     apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.72872461Z"
+    created: "2021-04-29T19:44:49.399772977Z"
     description: Sets up a deployment of the PushProx proxy and a DaemonSet of PushProx clients.
-    digest: 47e58296f4d5bc445dcedf154041e2ddef647c40e28afb93aad9b46cb22ceff9
+    digest: 362bc402dcf9d393232db5041cb8372d9c469dfcad5e3ec9b44662f442075240
     name: rancher-pushprox
     type: application
     urls:
@@ -3046,7 +3046,7 @@ entries:
       catalog.rancher.io/release-name: rancher-pushprox
     apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.728030909Z"
+    created: "2021-04-29T19:44:49.399084325Z"
     description: Sets up a deployment of the PushProx proxy and a DaemonSet of PushProx clients.
     digest: cb9552eb4ee8899ef1af5583c8080c27227dd3b10d919748f2caf79cb8197198
     name: rancher-pushprox
@@ -3061,7 +3061,7 @@ entries:
       catalog.rancher.io/release-name: rancher-pushprox
     apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.727337708Z"
+    created: "2021-04-29T19:44:49.398425876Z"
     description: Sets up a deployment of the PushProx proxy and a DaemonSet of PushProx clients.
     digest: a4b3506a74ea6cc4e8c6610cb92451d3072f4f7bac7b503e2dea9423697eaf68
     name: rancher-pushprox
@@ -3077,7 +3077,7 @@ entries:
       catalog.rancher.io/release-name: rancher-pushprox
     apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.726625008Z"
+    created: "2021-04-29T19:44:49.397755625Z"
     description: Sets up a deployment of the PushProx proxy and a DaemonSet of PushProx clients.
     digest: 4b53e4de2aede1f3d63c815ca36bd61f31d38c59769d9982b14aca3bbf575724
     name: rancher-pushprox
@@ -3093,7 +3093,7 @@ entries:
       catalog.rancher.io/release-name: rancher-pushprox
     apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.725898807Z"
+    created: "2021-04-29T19:44:49.397083975Z"
     description: Sets up a deployment of the PushProx proxy and a DaemonSet of PushProx clients.
     digest: 73b11a51246c216a7587628fee346541d6b5e82246e11d586b4926254f7999fa
     name: rancher-pushprox
@@ -3109,9 +3109,9 @@ entries:
       catalog.cattle.io/release-name: rancher-sachet
     apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-04-29T04:00:32.72929241Z"
+    created: "2021-04-29T19:44:49.400327019Z"
     description: A Helm chart for Sachet based on the upstream https://github.com/messagebird/sachet
-    digest: 1d019a68c5c910d821bd2ef670534fec821662523761bd99d1bd748539884fd6
+    digest: 8ed322cc320479a54c610a69a54b0b78fa4e35d6e1be12119ad49b53a33b956f
     name: rancher-sachet
     type: application
     urls:
@@ -3126,9 +3126,9 @@ entries:
       catalog.rancher.io/release-name: rancher-tracing
     apiVersion: v1
     appVersion: 1.20.0
-    created: "2021-04-29T04:00:32.731693213Z"
+    created: "2021-04-29T19:44:49.401951042Z"
     description: A quick start Jaeger Tracing installation using the all-in-one demo. This is not production qualified. Refer to https://www.jaegertracing.io/ for details.
-    digest: 01b02a041e64f2cd786d73dc913c400d4fe25b35069172ea8e0f050c769fdd6b
+    digest: 578f8943f61e8decc10d39155f69f4be7b2b0eea69b33c2fe42d805342e62b7f
     name: rancher-tracing
     urls:
     - released/assets/rancher-tracing/rancher-tracing-1.20.100.tgz
@@ -3141,7 +3141,7 @@ entries:
       catalog.rancher.io/release-name: rancher-tracing
     apiVersion: v1
     appVersion: 1.20.0
-    created: "2021-04-29T04:00:32.730893712Z"
+    created: "2021-04-29T19:44:49.401389499Z"
     description: A quick start Jaeger Tracing installation using the all-in-one demo. This is not production qualified. Refer to https://www.jaegertracing.io/ for details.
     digest: 509c4d245fb245157d16b643f55aa9437cbfe19e087326b0f609cae58d0b5499
     name: rancher-tracing
@@ -3156,7 +3156,7 @@ entries:
       catalog.rancher.io/release-name: rancher-tracing
     apiVersion: v1
     appVersion: 1.20.0
-    created: "2021-04-29T04:00:32.729848811Z"
+    created: "2021-04-29T19:44:49.400838058Z"
     description: A quick start Jaeger Tracing installation using the all-in-one demo. This is not production qualified. Refer to https://www.jaegertracing.io/ for details.
     digest: 1a64b24b3b320407191918acef460ceceebb462b01b7a820568e81a81f89e8b9
     name: rancher-tracing
@@ -3172,7 +3172,7 @@ entries:
       catalog.cattle.io/release-name: vsphere-cpi
     apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-04-29T04:00:32.732492413Z"
+    created: "2021-04-29T19:44:49.40246308Z"
     description: vSphere Cloud Provider Interface (CPI)
     digest: 932e0f16481f28b34d4dd991323da85da272f3d5d4cce28832a7442d4f2ca1f7
     icon: https://charts.rancher.io/assets/logos/vsphere-cpi.svg
@@ -3196,7 +3196,7 @@ entries:
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 2.1.0
-    created: "2021-04-29T04:00:32.733747115Z"
+    created: "2021-04-29T19:44:49.40325104Z"
     description: vSphere Cloud Storage Interface (CSI)
     digest: 20bfaa758a97b0b89c51fefdf70d048a7e06b576932435ac03fc045a295c0535
     icon: https://charts.rancher.io/assets/logos/vsphere-csi.svg
@@ -3220,9 +3220,9 @@ entries:
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.735318816Z"
+    created: "2021-04-29T19:44:49.404679147Z"
     description: ValidatingAdmissionWebhook for Rancher types
-    digest: 18462619d13fc4a3d07379314c3bb686520378dc1d0f90a0a8d262b054669239
+    digest: cd81daeddef69104439fdbba4268716f16d7777c97e7eded59960109d19cf1a8
     name: rancher-webhook
     urls:
     - released/assets/rancher-webhook/rancher-webhook-0.1.000.tgz
@@ -3235,7 +3235,7 @@ entries:
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.1.0-beta9
-    created: "2021-04-29T04:00:32.735029716Z"
+    created: "2021-04-29T19:44:49.404412327Z"
     description: ValidatingAdmissionWebhook for Rancher types
     digest: 0d9ac76eff2b6e937e3e15970cd0192acff99a31aa1afa14941029088dc32f76
     name: rancher-webhook
@@ -3250,7 +3250,7 @@ entries:
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.1.0-beta9
-    created: "2021-04-29T04:00:32.734729116Z"
+    created: "2021-04-29T19:44:49.404139407Z"
     description: ValidatingAdmissionWebhook for Rancher types
     digest: 8881f7cf8b50e3b48a967ce8af477c96f986d42d3c1f4bbb8c0bfc09202d23f4
     name: rancher-webhook
@@ -3265,7 +3265,7 @@ entries:
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.1.0-beta7
-    created: "2021-04-29T04:00:32.734421815Z"
+    created: "2021-04-29T19:44:49.403853185Z"
     description: ValidatingAdmissionWebhook for Rancher types
     digest: e185c6765de0bb0694d6d12e16c2dcce7f4c785125e614cf6c0020e5982d5f0e
     name: rancher-webhook
@@ -3280,7 +3280,7 @@ entries:
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.1.0-beta5
-    created: "2021-04-29T04:00:32.734077115Z"
+    created: "2021-04-29T19:44:49.403557263Z"
     description: ValidatingAdmissionWebhook for Rancher types
     digest: 574407c23b5827bd1d4d4f20609a5dc9d4558d6d29ef179093288a4a730ab8c2
     name: rancher-webhook
@@ -3296,9 +3296,9 @@ entries:
       catalog.rancher.io/release-name: rancher-windows-exporter
     apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-04-29T04:00:32.735908217Z"
+    created: "2021-04-29T19:44:49.405285993Z"
     description: Sets up monitoring metrics from Windows nodes via Prometheus windows-exporter
-    digest: 2f50d61a831f848b903cafda6244d34eba45f4453d9dd95e7d04f26870b1e171
+    digest: 39a9970e9be66dcca99e346fd9c1cf3cdb501af01ad7d710f333b453d14d24ef
     maintainers:
     - email: arvind.iyengar@rancher.com
       name: aiyengar2
@@ -3315,9 +3315,9 @@ entries:
       catalog.cattle.io/release-name: rancher-wins-upgrader
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-04-29T04:00:32.736510117Z"
+    created: "2021-04-29T19:44:49.405877938Z"
     description: Manages upgrading the wins server version and configuration across all of your Windows nodes
-    digest: 529d5994ffa3d3b72fb247b3bddb22c8f9d7a3de930f778da4476cfd2b8c30d4
+    digest: 35e5175be5abaa78ad9b54e97cd27bb632f648f26b4968d8c7c4aade9f366008
     maintainers:
     - email: arvind.iyengar@suse.com
       name: aiyengar2
@@ -3337,7 +3337,7 @@ entries:
       catalog.cattle.io/requires-gvr: networking.istio.io.virtualservice/v1beta1
     apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-04-29T04:00:32.737573919Z"
+    created: "2021-04-29T19:44:49.406804608Z"
     description: The application deployment engine for Kubernetes
     digest: 8baa5c330cc152b3d3d87f918ed3ff96b927efad412f4b97bd7db90445e28602
     home: https://rio.io
@@ -3357,7 +3357,7 @@ entries:
       catalog.cattle.io/requires-gvr: networking.istio.io.virtualservice/v1beta1
     apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-04-29T04:00:32.737070618Z"
+    created: "2021-04-29T19:44:49.406368675Z"
     description: The application deployment engine for Kubernetes
     digest: d58ca3b147627fec6d5f4b99fae680f97edaed98967f1fc1914a537dede0d897
     home: https://rio.io
@@ -3366,4 +3366,4 @@ entries:
     urls:
     - released/assets/rio/rio-0.8.000.tgz
     version: 0.8.000
-generated: "2021-04-29T04:00:32.446443028Z"
+generated: "2021-04-29T19:44:49.130555379Z"
