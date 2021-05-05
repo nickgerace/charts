@@ -28,7 +28,7 @@ spec:
         command: ["pwsh", "-f", "c:/scripts/noop.ps1"]
         volumeMounts:
         - name: upgrade-scripts
-          mountPath: c:/scripts/
+          mountPath: c:/scripts
       initContainers:
       - name: wins-upgrader
         image: {{ template "system_default_registry" $ }}{{ .image.repository }}:{{ .image.tag }}
@@ -39,13 +39,15 @@ spec:
         - name: wins
           mountPath: c:/host/etc/rancher/wins
         - name: upgrade-scripts
-          mountPath: c:/scripts/
+          mountPath: c:/scripts
         env:
         - name: HELM_REVISION_NUMBER
           value: {{ $.Release.Revision | quote }}
+        - name: CATTLE_PREFIX_PATH
+          value: {{ default "c:\\" $.Values.global.cattle.rkeWindowsPathPrefix | replace "/" "\\" }}
 {{- if $.Values.masquerade.enabled }}
         - name: WINS_UPGRADE_PATH
-          value: {{ $.Values.masquerade.as }}
+          value: {{ include "winsUpgrader.winsMasqueradePath" $ }}
 {{- end }}
       volumes:
       - name: wins-pipe

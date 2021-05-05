@@ -1,4 +1,5 @@
 {{- if .Values.clients }}{{ if .Values.clients.enabled }}
+{{ include "windowsExporter.validatePathPrefix" . }}
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:
@@ -37,7 +38,9 @@ spec:
 {{- if .Values.clients.args }}
         args: {{ .Values.clients.args }}
 {{- end }}
-        env: {{ include "windowsExporter.client.env" . | nindent 10 }}
+        env: {{ include "windowsExporter.client.env" . | nindent 8 }}
+        - name: CATTLE_PREFIX_PATH
+          value: {{ default "c:\\" .Values.global.cattle.rkeWindowsPathPrefix | replace "/" "\\" }}
 {{- if .Values.resources }}
         resources: {{ toYaml .Values.clients.resources | nindent 10 }}
 {{- end }}
@@ -66,7 +69,7 @@ spec:
           path: \\.\pipe\rancher_wins_proxy
       - name: binary-host-path
         hostPath:
-          path: c:/etc/windows-exporter
+          path: {{ default "c:\\" .Values.global.cattle.rkeWindowsPathPrefix | replace "\\" "/" }}etc/windows-exporter
           type: DirectoryOrCreate
       - name: exporter-scripts
         configMap:

@@ -62,3 +62,12 @@ kubernetes.io/os: windows
 {{ toYaml .Values.clients.env }}
 {{- end }}
 {{- end -}}
+
+{{- define "windowsExporter.validatePathPrefix" -}}
+{{- if .Values.global.cattle.rkeWindowsPathPrefix -}}
+{{- $prefixPath := (.Values.global.cattle.rkeWindowsPathPrefix | replace "/" "\\") -}}
+{{- if (not (hasSuffix "\\" $prefixPath)) -}}
+{{- fail (printf ".Values.global.cattle.rkeWindowsPathPrefix must end in '/' or '\\', found %s" $prefixPath) -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
